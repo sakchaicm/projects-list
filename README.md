@@ -1,4 +1,4 @@
-### Visual Builder Repositories ###
+### Visual Builder Private Repositories ###
 * [React (cra)](https://github.com/sellpixels/visual-builder-react-cra) 
 * [React (umijs)](https://github.com/sellpixels/visual-builder-react-umi)
 * Vue (soon)
