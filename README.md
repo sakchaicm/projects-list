@@ -15,6 +15,6 @@
 * [Docs Repository (commits are welcome)](https://github.com/sellpixels/visual-builder-docs)
 
 ### Freebies ###
-* [Design Wireframes](https://github.com/sellpixels/visual-builder-design-wireframes)
+* [Design Wireframes](https://github.com/sellpixels/design-wireframes)
 * [Onepage Landing Gatsby](https://github.com/sellpixels/onepage-landing-gatsby)
 * [Onepage Landing Html](https://github.com/sellpixels/onepage-landing-html)
