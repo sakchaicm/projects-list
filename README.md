@@ -1,12 +1,12 @@
 ### Visual Builder Private Repositories ###
 * [React (cra)](https://github.com/sellpixels/visual-builder-react-cra) 
 * [React (umijs)](https://github.com/sellpixels/visual-builder-react-umi)
-* Vue (soon)
-* Angular (soon)
-* Html (soon)
+* [Vue](https://github.com/sellpixels/visual-builder-vue)
+* [Vue + Laravel](https://github.com/sellpixels/visual-builder-vue-laravel)
+* [Angular](https://github.com/sellpixels/visual-builder-angular)
+* [Html](https://github.com/sellpixels/visual-builder-html)
+* Html + Laravel (soon)
 * Svelte (soon)
-* Laravel + Vue (soon)
-* Laravel + Html (soon)
 * NextJS (soon)
 * NuxtJS (soon)
 
